@@ -1,0 +1,22 @@
+Teardrop Report PCB_MPPT_V1.0.PcbDoc
+On 2/9/2023 at 22:56:47
+
+Pads visited                : 9
+
+Vias visited                : 0
+
+Pad teardrops failed : 7
+
+Pad UART-3(3650mil,2350mil) on Multi-Layer
+Pad UART-2(3550mil,2350mil) on Multi-Layer
+Pad DEBUG-3(3150mil,2350mil) on Multi-Layer
+Pad DEBUG-2(3050mil,2350mil) on Multi-Layer
+Pad PWM2-1(1600mil,1376.055mil) on Multi-Layer
+Pad PWM1-1(1401.063mil,1376.055mil) on Multi-Layer
+Pad IIN-1(689.983mil,900mil) on Multi-Layer
+Pad 3V3-1(1640mil,2400mil) on Multi-Layer
+Pad 5V-1(1200mil,1800mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+
